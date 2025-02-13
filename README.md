@@ -1,2 +1,2 @@
-# javascriptpart.5
+# javaScript
 slice
